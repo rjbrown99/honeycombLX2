@@ -1,5 +1,5 @@
-# honeycombLX2
-Reference for Honeycomb LX2 Board Config / Development
+# SolidRun Honeycomb LX2 with RHEL 9
+Reference for using Red Hat Enterprise Linux 9 with the Honeycomb LX2 Board.
 
 The attached files are tested for use with kernel-5.14.0-70.17.1.el9_0.src.rpm.
 
