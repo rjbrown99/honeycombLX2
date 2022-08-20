@@ -8,7 +8,8 @@ The attached files are tested for use with kernel-5.14.0-70.17.1.el9_0.src.rpm.
 
 ### Kernel Build Process
 ```
-Download kernel-5.14.0-70.17.1.el9_0.src.rpm from RedHat
+yum install yum-utils
+yumdownloader --source kernel (downloads kernel src RPM from RedHat)
 rpm -Uvh kernel-5.14.0-70.17.1.el9_0.src.rpm
 cp kernel-aarch64-rhel.config ~/rpmbuild/SOURCES
 cp kernel-local ~/rpmbuild/SOURCES
