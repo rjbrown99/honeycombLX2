@@ -25,3 +25,5 @@ rpmbuild -bb --with baseonly --without debuginfo kernel.spec
 - [Fedora Aarch64 on the SolidRun HoneyComb LX2K](https://fedoramagazine.org/fedora-aarch64-on-the-solidrun-honeycomb-lx2k/)
 - [Rocking a 16 core ARM workstation for data analysis and NAS – HoneyComb LX2K](https://mightynotes.wordpress.com/2020/02/29/rocking-a-16-core-arm-workstation-for-data-analysis-and-nas-honeycomb-lx2k/)
 - [LX2160A Software](https://solidrun.atlassian.net/wiki/spaces/developer/pages/197494345/LX2160A+Software#using-the-built-in-nics)
+
+There are also wiki pages with content attached to this repo, hit the "Wiki" tab at the top.
